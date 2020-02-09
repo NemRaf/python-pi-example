@@ -1,9 +1,10 @@
 def main(msg):
 
-    ## Adding a different com
-
-    ## print a message
+    #No longer need comments here
 
     print(msg)
+
+def secondary():
+    print("New function")
 
 main("hello people")
